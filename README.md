@@ -16,3 +16,4 @@
 4.t niet goed
 5.d niet goed
 6.w miet goed nog 1 poging
+7.g het woord is galgje
