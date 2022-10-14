@@ -14,3 +14,4 @@
 2.K niet goed
 3.s niet goed
 4.t niet goed
+5.d
