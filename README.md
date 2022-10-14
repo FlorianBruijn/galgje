@@ -15,3 +15,4 @@
 3.s niet goed
 4.t niet goed
 5.d niet goed
+6.w
